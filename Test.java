@@ -4,5 +4,7 @@ public class Test {
 		System.out.println("Blondie is cute");
 		System.out.println("Blondie is a good girl");
 		System.out.println("Blondie has a snoot");
+	String name = " Signed, Tim";
+	System.out.println(name);
 	}
 }
