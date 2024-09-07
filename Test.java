@@ -6,5 +6,8 @@ public class Test {
 		System.out.println("Blondie has a snoot");
 	String name = " Signed, Tim";
 	System.out.println(name);
+	int num =  4;
+	String note = "P.S I's is ";
+	System.out.println(note + num);
 	}
 }
