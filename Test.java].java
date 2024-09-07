@@ -7,24 +7,20 @@ public class Test {
 	String name = " Signed, Tim";
 	System.out.println(name);
 	int num =  4;
-	String note = "PS I's is ";
+	String note = "P.S I's is ";
 	System.out.println(note + num);
 	float noom = 3.14159f;
-	String anotherNote = "PSS I's learned the entirety of pi! It is ";
+	String anotherNote = "P.SS I's learned the entirety of pi! It is ";
 	System.out.println(anotherNote + noom);
 	boolean isBlondiecute = true;
 	boolean isBlondiesmart = false;
+	System.out.println(isBlondiecute);
 	System.out.println(isBlondiesmart);
 	double myDouble = 3.14;
 	int myInt = (int) myDouble;
 	System.out.println(myDouble);
 	System.out.println(myInt);
 	String txt = "31459";
-	System.out.println("There are only " + txt.length() + " digits of pi.");
-	int x = 10;
-	int y = 9;
-	System.out.println(x<y);
-	String psss = "PSSS I's is Blondie";
-	System.out.println(psss.toUpperCase());
+	System.out.println("There are only " + txt.length() + "of pi.");
 	}
-} 
+}
